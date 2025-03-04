@@ -1,5 +1,5 @@
 # 👋 Hi:
-I'm currently in the 3rd year pursuing my btech in CSE from CET, Trivandrum.
+I'm currently in the final year pursuing my btech in CSE from CET, Trivandrum.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabian-savio-dcruz-782364294) 
